@@ -54,12 +54,19 @@ with open(state_file, "w") as f:
 ```
 
 ## 案例
+### 执行C程序
 ```shell
 # 执行C语言程序
 gcc -o my_backup demo/my_backup.c
 ./Restore-interrupted my_backup
+```
+https://github.com/IammyselfYBX/Restore-interrupted/assets/56785746/09a2a992-2fc1-461d-b560-f84ee4aab662
 
-# 执行Python程序
+
+
+
+### 执行Python程序
+```shell
 ./Restore-interrupted python3 demo/my_backup.py
 ```
 
