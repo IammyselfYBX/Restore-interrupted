@@ -1,7 +1,7 @@
 # Restore-interrupted
 
 ## 说明
-```Restore-interrupted``` 是一个用于恢复被中断的下载任务的工具，支持多线程下载，支持断点续传。
+```Restore-interrupted``` 是一个用于恢复被中断的下载任务的工具
 
 ## 编译
 ```shell
